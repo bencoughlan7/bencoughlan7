@@ -2,7 +2,7 @@
 
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bencoughlan7&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/bencoughlan7/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bencoughlan7?count_private=true)](https://github.com/bencoughlan7/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bencoughlan7)](https://github.com/bencoughlan7/github-readme-stats)-->
 
 <!--
 **bencoughlan7/bencoughlan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
